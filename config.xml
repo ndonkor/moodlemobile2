@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.distance.moodle.uew.edu.gh" version="2.91" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Moodle Mobile</name>
-  <description>Official Mobile app for UEW</description>
+  <name>UEW Distance</name>
+  <description>Official Mobile app for IEDE</description>
   <author href="http://uew.edu.gh" email="ictservices@uew.edu.gh">Juan Leyva</author>
   <content src="index.html"/>
   <access origin="*"/>
